@@ -1,1 +1,32 @@
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  background-color: lightcyan;
+}
 
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: rebeccapurple;
+  text-align: center;
+}
+
+table {
+  border: 3px solid darkcyan;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: darkmagenta;
+}
+
+td {
+  border-top: 2px solid darkcyan;
+}
+
+.code {
+  font-family: monospace;
+  background-color: beige;
+}
